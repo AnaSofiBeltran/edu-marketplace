@@ -1,0 +1,24 @@
+.Card-figure{
+    width: 12vw;
+}
+
+img{
+    width: 100%;
+}
+
+.Main-ProductsCards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2vw;
+    padding: 8vw;
+}
+
+.Card{
+    text-align: center;
+}
+
+button{
+    width: 100%;
+    background: gray;
+    border: none;
+}
